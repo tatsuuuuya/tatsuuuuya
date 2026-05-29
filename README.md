@@ -63,9 +63,9 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tatsuuuuya&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&customColorList=0,2,5,30&height=120&section=footer&animation=twinkling" />
